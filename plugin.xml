@@ -3,7 +3,7 @@
 	<prefix>figure</prefix>
 	<icon>figure.png</icon>
 
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 	<etat>stable</etat>
 	<categorie>multimedia</categorie>
 
@@ -12,7 +12,7 @@
 	<auteur>[tetue->http://spip.tetue.net]</auteur>
 	<lien>https://contrib.spip.net/figure</lien>
 
-	<necessite id="SPIP" version="[2.1.0;3.2.*]" />
+	<necessite id="SPIP" version="[2.1.0;3.2.99]" />
 	<utilise id="medias" version="[1.6.8;]" />
 	<utilise id="medoc" version="[1.0.0;]" />
 	<utilise id="accessibilite" />
