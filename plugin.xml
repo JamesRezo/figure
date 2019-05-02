@@ -5,7 +5,7 @@
 
 	<version>1.0.1</version>
 	<etat>stable</etat>
-	<categorie>multimedia</categorie>
+	<categorie>outil</categorie>
 
 	<slogan>Figure HTML5</slogan>
 	<description>Insertion des documents en HTML5, avec figure et figcaption.</description>
